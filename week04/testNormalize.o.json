@@ -1,0 +1,3 @@
+ { "directory": "/home/meme/Documents/CS235/week04",
+ "command": "g++ -g -pg -std=c++03  -c testNormalize.cpp",
+ "file": "testNormalize.cpp" },
