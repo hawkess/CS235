@@ -1,3 +1,0 @@
- { "directory": "/home/meme/Documents/CS235/week04",
- "command": "g++ -g -pg -std=c++14  -c nowServing.cpp",
- "file": "nowServing.cpp" },

@@ -1,3 +1,0 @@
- { "directory": "/home/meme/Documents/CS235/week05",
- "command": "g++ -g -pg -std=c++14  -c card.cpp",
- "file": "card.cpp" },
